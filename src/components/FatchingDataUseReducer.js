@@ -1,5 +1,5 @@
 import Axios from 'axios';
-import React, {useReducer, useEffect} from 'react'
+import React, {useReducer, useEffect} from 'react';
 
 const initialState = {
     loading: true,
